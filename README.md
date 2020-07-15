@@ -1,4 +1,4 @@
-# python-week-2
+## python-week-2
 
 The goal of this week is to become comfortable hacking at code.
 This includes learning about basic packages, how to use them, how to
